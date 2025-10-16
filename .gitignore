@@ -1,0 +1,34 @@
+Ficheiro .gitignore para o nosso projeto Python
+
+Ambiente Virtual
+
+Nunca envie a sua pasta venv para o repositório!
+
+venv/
+/venv/
+
+Ficheiros de Cache do Python
+
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Ficheiros de Cache do Pytest
+
+.pytest_cache/
+
+Pasta de testes gerados
+
+Geralmente não versionamos ficheiros gerados automaticamente
+
+testes_gerados/
+
+Ficheiros do VSCode (opcional, mas boa prática)
+
+.vscode/
+
+Screenshots gerados (sucesso ou erro)
+
+SUCESSO_.png
+ERRO_.png
