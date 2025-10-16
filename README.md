@@ -27,7 +27,7 @@ Ollama instalado e a correr com o modelo codellama:7b.
 Instalação:
 
 # Clone o repositório
-git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+git clone https://github.com/vinileme/ia-qa-tool/
 
 # Entre na pasta do projeto
 cd ia_qa_tool
